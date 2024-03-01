@@ -1,3 +1,7 @@
+<img width="673" alt="dashboard" src="https://github.com/Harshithachandaluri/Healthcare-Analytic-Dashboard/assets/85833792/a7428ab7-932a-4136-a7e5-e4db1722791f">
+<img width="637" alt="details" src="https://github.com/Harshithachandaluri/Healthcare-Analytic-Dashboard/assets/85833792/32cfb69c-0946-4d10-9de5-f10f9d2faf18">
+
+
 **Objective:**
 
 The goal of this project is to leverage data-driven insights to enhance the efficiency of healthcare services and improve the overall patient experience. By analyzing a comprehensive dataset encompassing patient demographics, satisfaction scores, wait times, and referral patterns, we aim to provide valuable insights for optimizing various aspects of healthcare operations.
